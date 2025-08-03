@@ -7,7 +7,6 @@ public class MappingProfile : Profile
 {
     public MappingProfile()
     {
-        CreateMap<Course, CourseService.gRPC>().ReverseMap();
 
     }
 }

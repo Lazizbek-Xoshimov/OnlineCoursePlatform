@@ -14,9 +14,4 @@
     <ProjectReference Include="..\CourseService.DAL\CourseService.DAL.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Interfaces\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>
